@@ -1,0 +1,6 @@
+.footer__columns { /* флекс-контейнер */
+  display: flex;
+  width: 90%;
+  justify-content: space-between; /* выравнивание по всей ширине с равномерн отступами проверить работает или нет */
+  margin: 60px auto 40px;
+}

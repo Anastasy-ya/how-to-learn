@@ -1,0 +1,4 @@
+.footer__column { /* общие свойства для всех КОЛОНОК   элементов флекса в футере */
+  display: flex;
+  flex-direction: column;
+}
