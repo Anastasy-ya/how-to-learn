@@ -6,4 +6,9 @@
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
+  transition: opacity 1s linear;
+  opacity: 1;
+}
+.footer__author:hover {
+  opacity: 0.5;
 }
