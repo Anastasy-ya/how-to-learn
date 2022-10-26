@@ -1,0 +1,10 @@
+.feynman__title {
+  margin: 100px auto 70px auto;
+  z-index: 2;
+  width: 648px;
+  text-align: center;
+  font-size: 120px;
+  line-height: 1.15;
+  font-weight: 600;
+  padding: 0;
+}

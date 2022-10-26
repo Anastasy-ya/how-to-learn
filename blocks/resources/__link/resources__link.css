@@ -1,0 +1,9 @@
+.resources__link {
+  object-fit: cover;
+  transition: opacity 1s linear;
+  opacity: 1;
+}
+
+.resources__link:hover {
+  opacity: 0.5;
+}
