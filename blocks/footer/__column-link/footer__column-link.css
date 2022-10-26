@@ -9,6 +9,7 @@
   transition: opacity 1s linear;
   opacity: 1;
 }
+
 .footer__column-link:hover {
   opacity: 0.5;
 }
